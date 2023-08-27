@@ -1,2 +1,4 @@
 # super-eureka
-My first GitHub repository
+a=int(input())
+print (a)
+
